@@ -15,4 +15,4 @@ This repository contains some exercises from the Computer Architecture disciplin
 </div>
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
